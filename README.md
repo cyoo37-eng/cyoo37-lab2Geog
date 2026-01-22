@@ -26,7 +26,14 @@ I expected to find distinct vocabularies for each platform - perhaps more techni
 
 ## 3. Word Cloud Visualizations
 
-in img folder
+![Word Cloud 1](img/searchresult1.png)
+
+### Search Term 2: Xbox Series X
+![Word Cloud 2](img/searchresult2.png)
+
+### Search Term 3: Nintendo Switch
+![Word Cloud 3](img/searchresult3.png)
+
 
 ## 4. Comparison and Analysis
 
