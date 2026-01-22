@@ -89,7 +89,12 @@ The data also revealed how YouTube's role in gaming culture extends beyond enter
 
 ## 8. Data Access
 
-in assets folder
+The complete datasets can be downloaded here:
+
+- [Search Result 1: PlayStation 5 CSV](assets/search-result-1.csv)
+- [Search Result 2: Xbox Series X CSV](assets/search-result-2.csv)
+- [Search Result 3: Nintendo Switch CSV](assets/search-result-3.csv)
+
 
 ---
 
